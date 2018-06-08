@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "objc.lua"
-version = "0.0.1-2"
+version = "0.0.2-1"
 -- LuaDist source
 source = {
-  tag = "0.0.1-2",
+  tag = "0.0.2-1",
   url = "git://github.com/LuaDist-testing/objc.lua.git"
 }
 -- Original source
