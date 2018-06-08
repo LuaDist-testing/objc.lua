@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "objc.lua"
-version = "0.0.1-1"
+version = "0.0.1-2"
 -- LuaDist source
 source = {
-  tag = "0.0.1-1",
+  tag = "0.0.1-2",
   url = "git://github.com/LuaDist-testing/objc.lua.git"
 }
 -- Original source
@@ -18,11 +18,6 @@ description = {
 }
 dependencies = {
    "lua ~> 5.1"
-}
-external_dependencies = {
-   LIBOBJC = {
-      library = "libobjc"
-   }
 }
 build = {
    type = "builtin",
